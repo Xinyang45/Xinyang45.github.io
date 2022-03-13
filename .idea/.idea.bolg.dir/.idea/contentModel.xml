@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\BRENR\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\BRENR\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\DT\myBolg\bolg" t="IncludeFlat">
+      <e p="node_modules\hexo" t="IncludeRecursive" />
+      <e p="node_modules\hexo-deployer-git" t="IncludeRecursive" />
+      <e p="node_modules\hexo-filter-mermaid-diagrams" t="IncludeRecursive" />
+      <e p="node_modules\hexo-generator-archive" t="IncludeRecursive" />
+      <e p="node_modules\hexo-generator-category" t="IncludeRecursive" />
+      <e p="node_modules\hexo-generator-index" t="IncludeRecursive" />
+      <e p="node_modules\hexo-generator-tag" t="IncludeRecursive" />
+      <e p="node_modules\hexo-helper-live2d" t="IncludeRecursive" />
+      <e p="node_modules\hexo-renderer-ejs" t="IncludeRecursive" />
+      <e p="node_modules\hexo-renderer-marked" t="IncludeRecursive" />
+      <e p="node_modules\hexo-renderer-stylus" t="IncludeRecursive" />
+      <e p="node_modules\hexo-server" t="IncludeRecursive" />
+      <e p="node_modules\hexo-theme-landscape" t="IncludeRecursive" />
+      <e p="node_modules\hexo-util" t="IncludeRecursive" />
+      <e p="node_modules\hexo-wordcount" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

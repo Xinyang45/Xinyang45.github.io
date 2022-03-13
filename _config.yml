@@ -5,8 +5,8 @@
 # Site
 title: shinyang
 subtitle: '但行好事  莫问前程'
-description: ''
-keywords: 
+description: '我不好也不坏，不特别出众，我只是敢不同。我的人生就是一错再错 错完了再从头。'
+keywords: Xinyang,github
 author: Xinyang
 language: zh-CN
 timezone: ''
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: "ZONE/map/index.html"
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: ture
 relative_link: false
 future: true
 highlight:
@@ -105,3 +105,7 @@ deploy:
   type: git
   repository: git@github.com:Xinyang45/Xinyang45.github.io.git
   branch: main
+
+search:
+  path: search.xml
+  field: post

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d857626-c31a-4dab-9894-9b7d480cd2c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/image-20210709185720870.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/博客简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/博客简介.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/校车时刻表2.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/校车时刻表2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/校车时刻表22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/西南交大九里犀浦通勤方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/西南交大九里犀浦通勤方式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-next" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-next/languages/default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/languages/default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/languages/default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/default.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wNhrB5UIYJLcuv6It7sDS1hZKf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d857626-c31a-4dab-9894-9b7d480cd2c3" name="Default Changelist" comment="" />
+      <created>1628305169085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628305169085</updated>
+      <workItem from="1628305181878" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
